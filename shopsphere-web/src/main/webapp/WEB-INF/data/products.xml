@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <item id="101">
+        <name>Apple MacBook Air M3</name>
+        <category>Electronics</category>
+        <price>114900.00</price>
+        <stock>25</stock>
+    </item>
+    <item id="102">
+        <name>Sony WH-1000XM5 Headphones</name>
+        <category>Electronics</category>
+        <price>29990.00</price>
+        <stock>40</stock>
+    </item>
+    <item id="103">
+        <name>Oxford Cotton Formal Shirt</name>
+        <category>Fashion</category>
+        <price>2199.00</price>
+        <stock>80</stock>
+    </item>
+    <item id="104">
+        <name>Core Java Fundamentals Book</name>
+        <category>Books</category>
+        <price>1250.00</price>
+        <stock>100</stock>
+    </item>
+</catalog>
